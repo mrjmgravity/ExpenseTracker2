@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExpenseTracker</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="category">Category</string>
+    <string name="amount">Amount</string>
+    <string name="date">Date</string>
+    <string name="kateg_ria">Kategória</string>
+    <string name="suma">Suma</string>
+    <string name="d_tum_yyyy_mm_dd">Dátum (YYYY-MM-DD)</string>
+    <string name="ulo_i">Uložiť</string>
+</resources>
